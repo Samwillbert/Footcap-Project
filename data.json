@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 90",
+    "price": 800,
+    "brand": "Nike",
+    "img": "assets/images/product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Jordan 1",
+    "price": 750,
+    "brand": "Nike",
+    "img": "assets/images/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Adidas Ultraboost",
+    "price": 980,
+    "brand": "Adidas",
+    "img": "assets/images/product-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Force 1",
+    "price": 1020,
+    "brand": "Nike",
+    "img": "assets/images/product-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Puma Suede Classic",
+    "price": 965,
+    "brand": "Puma",
+    "img": "assets/images/product-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Adidas Superstar",
+    "price": 1285,
+    "brand": "Adidas",
+    "img": "assets/images/product-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nike React Infinity Run",
+    "price": 1600,
+    "brand": "Nike",
+    "img": "assets/images/product-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Puma RS-X",
+    "price": 110,
+    "brand": "Puma",
+    "img": "assets/images/product-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Adidas NMD_R1",
+    "price": 140,
+    "brand": "Adidas",
+    "img": "assets/images/product-9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Nike ZoomX Vaporfly",
+    "price": 250,
+    "brand": "Nike",
+    "img": "assets/images/product-10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Puma Cali",
+    "price": 1090,
+    "brand": "Puma",
+    "img": "assets/images/product-11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Adidas Gazelle",
+    "price": 980,
+    "brand": "Adidas",
+    "img": "assets/images/product-12.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Nike Blazer Mid '77",
+    "price": 1100,
+    "brand": "Nike",
+    "img": "assets/images/product-13.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Puma Future Rider",
+    "price": 980,
+    "brand": "Puma",
+    "img": "assets/images/product-14.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Adidas Stan Smith",
+    "price": 875,
+    "brand": "Adidas",
+    "img": "assets/images/product-15.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Nike Air VaporMax",
+    "price": 1200,
+    "brand": "Nike",
+    "img": "assets/images/product-16.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Puma Ralph Sampson",
+    "price": 1095,
+    "brand": "Puma",
+    "img": "assets/images/product-17.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Adidas EQT Support",
+    "price": 1120,
+    "brand": "Adidas",
+    "img": "assets/images/product-18.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Nike LeBron 18",
+    "price": 1200,
+    "brand": "Nike",
+    "img": "assets/images/product-19.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Puma Thunder Spectra",
+    "price": 1020,
+    "brand": "Puma",
+    "img": "assets/images/product-20.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Adidas Yeezy Boost 350",
+    "price": 1220,
+    "brand": "Adidas",
+    "img": "assets/images/product-21.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Nike SB Dunk Low",
+    "price": 1050,
+    "brand": "Nike",
+    "img": "assets/images/product-22.jpeg"
+  },
+  {
+    "id": 23,
+    "name": "Puma RS-Fast",
+    "price": 110,
+    "brand": "Puma",
+    "img": "assets/images/product-23.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Adidas Ozweego",
+    "price": 2100,
+    "brand": "Adidas",
+    "img": "assets/images/product-24.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Nike Air Huarache",
+    "price": 2120,
+    "brand": "Nike",
+    "img": "assets/images/product-25.jpeg"
+  }
+]
